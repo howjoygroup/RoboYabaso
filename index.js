@@ -18,7 +18,7 @@ var options = {
 	method: 'POST',
 	headers: {
 	'Content-Type': 'application/json',
-	'Authorization':'Bearer [LineAuthorization]'2f28f458f4100f51380934f13d721876
+	'Authorization':'Bearer [2f28f458f4100f51380934f13d721876]'
 	}
 }
 app.set('port', (process.env.PORT || 5000));
