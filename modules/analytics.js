@@ -88,11 +88,11 @@ function parseInput(rplyToken, inputStr) {
 	
 
 	
-	/*tarot 指令
+	//tarot 指令
 	if (trigger.match(/猜拳/) != null) {
 		return RockPaperScissors(inputStr, mainMsg[1]);
 	}
-*/
+
 
   
 }
