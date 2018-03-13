@@ -127,7 +127,7 @@ rply =		{
 				{
 					"type": "message",
 					"label": "回報問題",
-					"text": "請到 www.hktrpg.com 留言"
+					"text": "請找陳宏豪留言"
 				}
 						
 			]
